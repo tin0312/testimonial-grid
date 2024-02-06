@@ -27,10 +27,15 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/tin0312/testimonial-grid)
+- Live Site URL: [Testimonials-Grid-Section](https://testimonial-section-grid-example.netlify.app/)
 
 ## My process
+
+- Build the entire grid layout for desktop screen.
+- Use media query to specify otherwise css rules to handle mobile views.
+- Edit and prepare readme file accordingly.
+- Deploy the page on netlify.
 
 ### Built with
 
